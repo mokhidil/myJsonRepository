@@ -126,7 +126,7 @@
     ],
 	
 "productGroup" :
-    {
+    [
     "id":2,
     "products":[
       {
@@ -145,7 +145,7 @@
         "text":"sdsdsd"    
       },
     ]
-    }
+    ]
     
    
 }

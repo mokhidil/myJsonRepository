@@ -92,18 +92,41 @@
 		}
 	],
 	
-	"spProductType": [
-		{
-			"id": "1",
-			"name": "type1"
-		},
-		{
-			"id": "2",
-			"name": "type2"
-		},
-		{
-			"id": "3",
-			"name": "type3"
-		}
-	]
+	 
+    
+    "productRecommendGroup" :
+    [
+    "id":2,
+    "products":[
+      {
+        "id": 1008,
+			"productType": "2",
+			"productName": "DellXPS15_2in1",
+			"productImage": "https://picsum.photos/200/300?random=6",
+			"productComment": "Can't say enough good things about this suit and Cleanline customer service. A hand written note in the box and some decals go a long way in separating the service you get here vs. something like Amazon. The price was actually cheaper than or on par with everywhere else I looked, too. Will order from here again.",
+			"productPrice": "850$",
+			"productRating": 4   
+      },
+      {
+        "id": 1009,
+			"productType": "2",
+			"productName": "hp_envy_13__2018thumb1200",
+			"productImage": "http://lorempixel.com/400/200/technics/",
+			"productComment": "Can't say enough good things about this suit and Cleanline customer service. A hand written note in the box and some decals go a long way in separating the service you get here vs. something like Amazon. The price was actually cheaper than or on par with everywhere else I looked, too. Will order from here again.",
+			"productPrice": "768$",
+			"productRating": 3   
+      },
+      {
+        "id": 1010,
+			"productType": "2",
+			"productName": "MacbookPro13(2020)",
+			"productImage": "https://picsum.photos/200/300?random=8",
+			"productComment": "This company is incredible!! I ordered my wetsuit from them online and it was delivered within the week. Not only was it the right size and color, but they also included sex wax, a bunch of stickers, some starburst candy and even a personalized, handwritten thank you note! I have NEVER received such awesome service from ordering online. They are truly passionate and dedicated about what they do and sell. Thank you guys for taking the time to make my purchase a special experience! Super friendly and awesome people through and through.",
+			"productPrice": "2000$",
+			"productRating": 5    
+      },
+    ] 
+    ]
+    
+   
 }

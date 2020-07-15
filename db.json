@@ -7,7 +7,7 @@
 			"productImage": "http://lorempixel.com/400/200/technics/",
 			"productComment": "Can't say enough good things about this suit and Cleanline customer service. A hand written note in the box and some decals go a long way in separating the service you get here vs. something like Amazon. The price was actually cheaper than or on par with everywhere else I looked, too. Will order from here again.",
 			"productPrice": "120$",
-			"productRating": '3'
+			"productRating": "3"
 		},
 		{
 			"id": "1005",
@@ -16,7 +16,7 @@
 			"productImage": "https://picsum.photos/200/300?random=3",
 			"productComment": "Can't say enough good things about this suit and Cleanline customer service. A hand written note in the box and some decals go a long way in separating the service you get here vs. something like Amazon. The price was actually cheaper than or on par with everywhere else I looked, too. Will order from here again.",
 			"productPrice": "800$",
-			"productRating": '4'
+			"productRating": "4"
 		},
 		{
 			"id": "1006",
@@ -25,7 +25,7 @@
 			"productImage": "http://lorempixel.com/400/200/technics/",
 			"productComment": "Can't say enough good things about this suit and Cleanline customer service. A hand written note in the box and some decals go a long way in separating the service you get here vs. something like Amazon. The price was actually cheaper than or on par with everywhere else I looked, too. Will order from here again.",
 			"productPrice": "1000$",
-			"productRating": '4'
+			"productRating": "4"
 		},
 		{
 			"id": "1007",
@@ -34,7 +34,7 @@
 			"productImage": "https://picsum.photos/200/300?random=5",
 			"productComment": "Can't say enough good things about this suit and Cleanline customer service. A hand written note in the box and some decals go a long way in separating the service you get here vs. something like Amazon. The price was actually cheaper than or on par with everywhere else I looked, too. Will order from here again.",
 			"productPrice": "1100$",
-			"productRating": '5'
+			"productRating": "5"
 		},
 		{
 			"id": "1008",
@@ -43,7 +43,7 @@
 			"productImage": "https://picsum.photos/200/300?random=6",
 			"productComment": "Can't say enough good things about this suit and Cleanline customer service. A hand written note in the box and some decals go a long way in separating the service you get here vs. something like Amazon. The price was actually cheaper than or on par with everywhere else I looked, too. Will order from here again.",
 			"productPrice": "850$",
-			"productRating": '4'
+			"productRating": "4"
 		},
 		{
 			"id": "1009",
@@ -52,7 +52,7 @@
 			"productImage": "http://lorempixel.com/400/200/technics/",
 			"productComment": "Can't say enough good things about this suit and Cleanline customer service. A hand written note in the box and some decals go a long way in separating the service you get here vs. something like Amazon. The price was actually cheaper than or on par with everywhere else I looked, too. Will order from here again.",
 			"productPrice": "768$",
-			"productRating": '3'
+			"productRating": "3"
 		},
 		{
 			"id": "1010",
@@ -61,7 +61,7 @@
 			"productImage": "https://picsum.photos/200/300?random=8",
 			"productComment": "This company is incredible!! I ordered my wetsuit from them online and it was delivered within the week. Not only was it the right size and color, but they also included sex wax, a bunch of stickers, some starburst candy and even a personalized, handwritten thank you note! I have NEVER received such awesome service from ordering online. They are truly passionate and dedicated about what they do and sell. Thank you guys for taking the time to make my purchase a special experience! Super friendly and awesome people through and through.",
 			"productPrice": "2000$",
-			"productRating": '5'
+			"productRating": "5"
 		},
 		{
 			"id": "1013",
@@ -70,7 +70,7 @@
 			"productImage": "https://picsum.photos/200/300?random=9",
 			"productComment": "Thank you guys for taking the time to make my purchase a special experience! Super friendly and awesome people through and through.",
 			"productPrice": "300$",
-			"productRating": '3'
+			"productRating": "3"
 		},
 		{
 			"id": "1014",
@@ -79,7 +79,7 @@
 			"productImage": "https://picsum.photos/200/300?random=10",
 			"productComment": "I have NEVER received such awesome service from ordering online. They are truly passionate and dedicated about what they do and sell. Thank you guys for taking the time to make my purchase a special experience! Super friendly and awesome people through and through.",
 			"productPrice": "430$",
-			"productRating": '3'
+			"productRating": "3"
 		},
 		{
 			"id": "1015",
@@ -88,7 +88,7 @@
 			"productImage": "https://picsum.photos/200/300?random=11",
 			"productComment": "This company is incredible!! I ordered my wetsuit from them online and it was delivered within the week. Super friendly and awesome people through and through.",
 			"productPrice": "490$",
-			"productRating": '5'
+			"productRating": "5"
 		}
 	],
 	

@@ -96,8 +96,6 @@
     
     "productRecommendGroup" :
     [
-    "id":2,
-    "products":[
       {
         "id": 1008,
 			"productType": "2",
@@ -124,8 +122,7 @@
 			"productComment": "This company is incredible!! I ordered my wetsuit from them online and it was delivered within the week. Not only was it the right size and color, but they also included sex wax, a bunch of stickers, some starburst candy and even a personalized, handwritten thank you note! I have NEVER received such awesome service from ordering online. They are truly passionate and dedicated about what they do and sell. Thank you guys for taking the time to make my purchase a special experience! Super friendly and awesome people through and through.",
 			"productPrice": "2000$",
 			"productRating": 5    
-      },
-    ] 
+      }   
     ]
     
    

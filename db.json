@@ -130,19 +130,19 @@
     "id":2,
     "products":[
       {
-        id:3,
-        imageUrl:"sdsd/sdsd.png",
-        text:"sdsdsd"    
+        "id":3,
+        "imageUrl":"sdsd/sdsd.png",
+        "text":"sdsdsd"    
       },
       {
-        id:3,
-        imageUrl:"sdsd/sdsd.png",
-        text:"sdsdsd"    
+        "id":3,
+        "imageUrl":"sdsd/sdsd.png",
+        "text":"sdsdsd"    
       },
       {
-        id:3,
-        imageUrl:"sdsd/sdsd.png",
-        text:"sdsdsd"    
+        "id":3,
+        "imageUrl":"sdsd/sdsd.png",
+        "text":"sdsdsd"    
       },
     ]
     }

@@ -124,12 +124,21 @@
 			"productRating": 5    
       }   
     ],
+	
+	
 	"users":[
 		{
 			"userId":1,
 			"userName":"mokhidil",
-			"userEmail":"mokhidil@mail.ru",
+			"userEmail":"mokhidil_2607@mail.ru",
 			"userPassword":"mokhidil",
+			"userToken":"heurwetui2945yrehwefbwerwye89rry8edjsbcjhwdew"
+		},
+		{
+			"userId":2,
+			"userName":"mokhidil2",
+			"userEmail":"glabella_m@mail.ru",
+			"userPassword":"mokhidil2",
 			"userToken":"heurwetui2945yrehwefbwerwye89rry8edjsbcjhwdew"
 		}
 	
